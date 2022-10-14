@@ -1,6 +1,0 @@
-# ignore files 
-.replit
-.breakpoints
-*.class
-replit.nix
-.gitignore
