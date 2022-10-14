@@ -1,0 +1,6 @@
+# ignore files 
+/.replit
+/.breakpoints
+/main.class
+/password.class
+/replit.nix
